@@ -52,5 +52,8 @@ FlavourAI is a personalized **dish recommendation system** that leverages **reci
 ### Prerequisites  
 Ensure you have Python installed and install the required dependencies using:  
 
-```bash
-pip install pandas numpy matplotlib seaborn networkx
+## Usage  
+Clone the repository and run the Jupyter Notebooks in the `Notebooks/` folder to explore **recipe trends, user ratings, and ingredient insights**.  
+
+
+

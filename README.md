@@ -37,6 +37,10 @@ FlavourAI is a personalized **dish recommendation system** that leverages **reci
 
 ---
 
+### Milestone 2: https://github.com/AdityaAdke123/Milestone-2_Project
+
+---
+
 ## Key Features  
 
 - **Recipe Metadata Analysis:** Cleaning and processing of food-related datasets, focusing on **nutritional values, cooking instructions, and category trends**.  

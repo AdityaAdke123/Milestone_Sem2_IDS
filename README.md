@@ -1,4 +1,4 @@
-# Milestone_Sem2_Intro to data science
+# Milestone 1
 
 
 # FlavourAI: Personalized Dish Recommendation System  
